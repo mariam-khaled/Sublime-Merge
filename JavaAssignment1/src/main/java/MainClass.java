@@ -11,6 +11,7 @@ public class MainClass {
         List<Pyramid> pyramids = pDAO.readPyramidsFromCSV("data/pyramids.csv");
         
         //counter
+        //loop on pyramids
         int i = 0;
         for(Pyramid p : pyramids)
         {   
