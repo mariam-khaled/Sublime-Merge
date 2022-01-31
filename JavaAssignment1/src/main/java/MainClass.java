@@ -10,6 +10,7 @@ public class MainClass {
         
         List<Pyramid> pyramids = pDAO.readPyramidsFromCSV("data/pyramids.csv");
         
+        //counter
         int i = 0;
         for(Pyramid p : pyramids)
         {   
