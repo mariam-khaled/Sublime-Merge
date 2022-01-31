@@ -13,7 +13,6 @@ public class MainClass {
         //counter
         //loop on pyramids
         //increment
-        //change from master github
         int i = 0;
         for(Pyramid p : pyramids)
         {   
