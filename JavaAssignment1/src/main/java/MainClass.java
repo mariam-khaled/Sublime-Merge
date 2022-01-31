@@ -12,6 +12,7 @@ public class MainClass {
         
         //counter
         //loop on pyramids
+        //increment
         int i = 0;
         for(Pyramid p : pyramids)
         {   
