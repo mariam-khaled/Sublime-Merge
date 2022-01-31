@@ -13,6 +13,7 @@ public class MainClass {
         //counter
         //loop on pyramids
         //increment
+        //try stash
         int i = 0;
         for(Pyramid p : pyramids)
         {   
